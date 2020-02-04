@@ -1,0 +1,3 @@
+[submodule "wear-os-db-meter"]
+	path = wear-os-db-meter
+	url = https://github.com/chubstech/wear-os-db-meter

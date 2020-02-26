@@ -1,3 +1,12 @@
 [submodule "wear-os-db-meter"]
 	path = wear-os-db-meter
 	url = https://github.com/chubstech/wear-os-db-meter
+[submodule "noise-manager-web-app"]
+	path = noise-manager-web-app
+	url = https://github.com/chubstech/noise-manager-web-app
+[submodule "nodejs-wearable-server"]
+	path = nodejs-wearable-server
+	url = https://github.com/chubstech/nodejs-wearable-server
+[submodule "noise-app-delivery-01"]
+	path = noise-app-delivery-01
+	url = https://github.com/chubstech/noise-app-delivery-01
